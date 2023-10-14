@@ -1428,7 +1428,7 @@
         (stroke (width 0) (type default))
         (fill (type background))
       )
-      (text "PMOD" (at 0 3.81 900)
+      (text "PMOD Host" (at 0 3.81 900)
         (effects (font (size 0.8 0.8)))
       )
       (pin bidirectional line (at -7.62 10.16 0) (length 2.54)
