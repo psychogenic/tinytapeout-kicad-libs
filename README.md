@@ -10,7 +10,7 @@ The purpose of this repository is to serve as a single common location for kicad
 If you are creating a project and would like to include the symbols and footprints, from within an 
 
 
-  1) from within an initialized git repo run: `git submodule add https://github.com/psychogenic/tinytapeout-kicad-libs.git`
+  1) from within an initialized git repo run: `git submodule add https://github.com/tinytapeout/tinytapeout-kicad-libs.git`
   
   2) in kicad, use "Manage Symbol Libraries..." and "Manage Footprint Libraries..." to add project specific libraries
   
