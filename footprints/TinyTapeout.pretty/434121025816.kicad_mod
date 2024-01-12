@@ -48,4 +48,9 @@
     (solder_mask_margin 0.102) (tstamp db71d206-f146-4f61-b872-6c19c4a848c1))
   (pad "2" smd rect (at 3.25 0) (size 1.5 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.102) (tstamp fbc778fe-18cb-4cf4-8e9d-2625eea810d2))
+  (model ":KICAD6_3DMODEL_DIR:Button_Switch_SMD.3dshapes/SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
