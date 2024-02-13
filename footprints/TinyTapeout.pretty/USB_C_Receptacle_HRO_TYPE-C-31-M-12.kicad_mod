@@ -65,9 +65,9 @@
     (solder_paste_margin 0.1) (tstamp 45a3ceb2-a986-4967-949e-7587e07e69d4))
   (pad "S1" thru_hole oval (at 4.32 1.05) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask" "F.Paste")
     (solder_paste_margin 0.1) (tstamp d2141a15-8dbc-417a-805b-4c4c01efbf5f))
-  (model "$(KIPRJMOD)/libraries/cynthion.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.step"
+  (model "${KICAD7_3DMODEL_DIR}/HRO_TYPE-C-31-M-12.step"
     (offset (xyz -4.5 -3.6 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )
